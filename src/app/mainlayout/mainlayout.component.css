@@ -1,0 +1,64 @@
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+
+  nz-header {
+    background:#00203fff;
+    ;
+    text-align: center;
+    padding: 0;
+    width: 100% !important
+  }
+
+  nz-content {
+    margin: 0 16px;
+  }
+
+  nz-breadcrumb {
+    margin: 16px 0;
+  }
+
+  .inner-content {
+    padding: 24px;
+    background: #fff;
+    min-height: 360px;
+  }
+
+  nz-footer {
+    text-align: center;
+    background: #00203fff;
+    color:lightgray
+
+  }
+  /* input{
+    background: lightblue;
+    border: darkblue 2px solid;
+    /* color: white;
+} */
+
+#center{
+    margin-top: 10%;;
+    padding: 20px;
+    
+}
+body{
+    background: lightslategray;
+    width: 80%;
+    margin-left: 10%;
+}
+label,legend{
+    color:lightgray;
+    font: bolder;
+    font-size: 18px;
+}
+button{
+    width:100%;
+    height:42px;
+    background-color:#00203fff;
+    color:lightgray;
+    
+ 
+}
+ 
